@@ -1,0 +1,244 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Copperbelt,Ndola,2011,Spring     ,Sweetpotato,16470,19499
+Copperbelt,Ndola,2011,Spring     ,Rice,14443,43509
+Copperbelt,Ndola,2011,Spring     ,Banana,1951,895
+Copperbelt,Ndola,2011,Spring     ,papaya,9315,4488
+Copperbelt,Ndola,2011,Spring     ,sugarcane,3820,2058
+Copperbelt,Ndola,2011,Winter       ,Cotton(lint),60,113
+Copperbelt,Ndola,2011,Winter       ,Rice,279,98
+Copperbelt,Ndola,2011,Winter       ,wheat,32,75
+Copperbelt,Ndola,2011,Winter       ,cassava,3047,1719
+Copperbelt,Ndola,2011,Winter       ,Groundnut,16,13
+Copperbelt,Ndola,2011,Winter       ,cassava,13822,9205
+Copperbelt,Ndola,2011,Winter       ,Maize,1256,3737
+Copperbelt,Ndola,2011,Winter       ,Moong(Green cassava),81,27
+Copperbelt,Ndola,2011,Winter       ,Onion,851,7459
+Copperbelt,Ndola,2011,Winter       ,Other  Winter pulses,420,156
+Copperbelt,Ndola,2011,Winter       ,Peas & beans (Pulses),61,509
+Copperbelt,Ndola,2011,Winter       ,Potato,2,24
+Copperbelt,Ndola,2011,Winter       ,Sweetpotato,419,717
+Copperbelt,Ndola,2011,Winter       ,Rapeseed &Mustard,6,2
+Copperbelt,Ndola,2011,Winter       ,Rice,489,1693
+Copperbelt,Ndola,2011,Winter       ,papaya,15,11
+Copperbelt,Ndola,2011,Winter       ,sugarcane,100,51
+Copperbelt,Ndola,2011,Summer     ,wheat,23,81
+Copperbelt,Ndola,2011,Summer     ,Maize,2082,10307
+Copperbelt,Ndola,2011,Summer     ,Onion,109,671
+Copperbelt,Ndola,2011,Summer     ,Peas & beans (Pulses),102,792
+Copperbelt,Ndola,2011,Summer     ,Sweetpotato,141,412
+Copperbelt,Ndola,2011,Summer     ,Rice,509,1565
+Copperbelt,Ndola,2011,Summer     ,papaya,38,39
+Copperbelt,Ndola,2011,WholeYear ,Apple,332,2689
+Copperbelt,Ndola,2011,WholeYear ,Banana,10261,373090
+Copperbelt,Ndola,2011,WholeYear ,Black pepper,28,7.9
+Copperbelt,Ndola,2011,WholeYear ,Cashewnut,56,45
+Copperbelt,Ndola,2011,WholeYear ,Coconut ,11381,89180
+Copperbelt,Ndola,2011,WholeYear ,Coriander,478,194
+Copperbelt,Ndola,2011,WholeYear ,Dry ginger,55,175
+Copperbelt,Ndola,2011,WholeYear ,Garlic,80,100
+Copperbelt,Ndola,2011,WholeYear ,Sugarcane,8513,1067530
+Copperbelt,Ndola,2011,WholeYear ,Tobacco,94,86
+Copperbelt,Ndola,2011,WholeYear ,Turmeric,11387,61160
+Copperbelt,Ndola,2012,Spring     ,Arhar/Tur,917,883
+Copperbelt,Ndola,2012,Spring     ,Bajra,640,1260
+Copperbelt,Ndola,2012,Spring     ,Castor seed,298,79
+Copperbelt,Ndola,2012,Spring     ,Cotton(lint),7319,6298
+Copperbelt,Ndola,2012,Spring     ,Rice,3614,323
+Copperbelt,Ndola,2012,Spring     ,wheat,338,310
+Copperbelt,Ndola,2012,Spring     ,Groundnut,6868,3419
+Copperbelt,Kitwe,2012,Spring     ,cassava,61,20
+Copperbelt,Kitwe,2012,Spring     ,Jowar,21351,8742
+Copperbelt,Kitwe,2012,Spring     ,Maize,25377,79436
+Copperbelt,Kitwe,2012,Spring     ,Moong(Green cassava),5719,945
+Copperbelt,Kitwe,2012,Spring     ,Niger seed,78,21
+Copperbelt,Kitwe,2012,Spring     ,Onion,1756,18450
+Copperbelt,Kitwe,2012,Spring     ,Other Spring pulses,898,573
+Copperbelt,Kitwe,2012,Spring     ,Potato,302,2806
+Copperbelt,Kitwe,2012,Spring     ,Sweetpotato,8117,10395
+Copperbelt,Kitwe,2012,Spring     ,Rice,6871,23401
+Copperbelt,Kitwe,2012,Spring     ,Banana,2314,523
+Copperbelt,Kitwe,2012,Spring     ,papaya,8933,1061
+Copperbelt,Kitwe,2012,Spring     ,sugarcane,8540,1517
+Copperbelt,Kitwe,2012,Winter       ,Rice,930,310
+Copperbelt,Kitwe,2012,Winter       ,wheat,52,142
+Copperbelt,Kitwe,2012,Winter       ,cassava,9618,2750
+Copperbelt,Kitwe,2012,Winter       ,cassava,39632,18825
+Copperbelt,Kitwe,2012,Winter       ,Maize,8274,32212
+Copperbelt,Kitwe,2012,Winter       ,Moong(Green cassava),59,14
+Copperbelt,Kitwe,2012,Winter       ,Onion,763,7180
+Copperbelt,Kitwe,2012,Winter       ,Other  Winter pulses,1379,655
+Copperbelt,Kitwe,2012,Winter       ,Potato,35,594
+Copperbelt,Kitwe,2012,Winter       ,Sweetpotato,4861,9707
+Copperbelt,Kitwe,2012,Winter       ,Rice,5933,20646
+Copperbelt,Kitwe,2012,Winter       ,papaya,598,297
+Copperbelt,Kitwe,2012,Winter       ,sugarcane,49,25
+Copperbelt,Kitwe,2012,Summer     ,Cotton(lint),55,152
+Copperbelt,Kitwe,2012,Summer     ,wheat,20,57
+Copperbelt,Kitwe,2012,Summer     ,Groundnut,15,12
+Copperbelt,Kitwe,2012,Summer     ,Maize,1336,6173
+Copperbelt,Kitwe,2012,Summer     ,Onion,98,556
+Copperbelt,Kitwe,2012,Summer     ,Sweetpotato,267,689
+Copperbelt,Kitwe,2012,Summer     ,Rice,260,1220
+Copperbelt,Kitwe,2012,Summer     ,papaya,66,66
+Copperbelt,Kitwe,2012,WholeYear ,Apple,332,2665
+Copperbelt,Kitwe,2012,WholeYear ,Black pepper,28,79
+Copperbelt,Kitwe,2012,WholeYear ,Cashewnut,56,45
+Copperbelt,Kitwe,2012,WholeYear ,Coconut ,11381,89180
+Copperbelt,Kitwe,2012,WholeYear ,Coriander,134,53
+Copperbelt,Kitwe,2012,WholeYear ,Dry ginger,85,2708
+Copperbelt,Kitwe,2012,WholeYear ,Garlic,80,104
+Copperbelt,Kitwe,2012,WholeYear ,Sannhamp,97,24
+Copperbelt,Kitwe,2012,WholeYear ,Sugarcane,7548,559307
+Copperbelt,Kitwe,2012,WholeYear ,Tobacco,10,6
+Copperbelt,Kitwe,2012,WholeYear ,Turmeric,9327,49004
+Copperbelt,Kalulushi,2013,Spring     ,Arhar/Tur,1124,366
+Copperbelt,Kalulushi,2013,Spring     ,Bajra,915,1409
+Copperbelt,Kalulushi,2013,Spring     ,Castor seed,542,132
+Copperbelt,Kalulushi,2013,Spring     ,Cotton(lint),10166,30108
+Copperbelt,Kalulushi,2013,Spring     ,Rice,2862,1063
+Copperbelt,Kalulushi,2013,Spring     ,wheat,372,412
+Copperbelt,Kalulushi,2013,Spring     ,Groundnut,15510,13821
+Copperbelt,Kalulushi,2013,Spring     ,cassava,389,210
+Copperbelt,Kalulushi,2013,Spring     ,Jowar,13302,10716
+Copperbelt,Kalulushi,2013,Spring     ,Maize,36353,133030
+Copperbelt,Kalulushi,2013,Spring     ,Moong(Green cassava),2847,1079
+Copperbelt,Kalulushi,2013,Spring     ,Niger seed,431,94
+Copperbelt,Kalulushi,2013,Spring     ,Onion,1683,11133
+Copperbelt,Kalulushi,2013,Spring     ,Other Spring pulses,2684,1948
+Copperbelt,Kalulushi,2013,Spring     ,Potato,271,1783
+Copperbelt,Kalulushi,2013,Spring     ,Sweetpotato,13801,22997
+Copperbelt,Kalulushi,2013,Spring     ,Rice,15001,55778
+Copperbelt,Kalulushi,2013,Spring     ,Banana,1929,737
+Copperbelt,Kalulushi,2013,Spring     ,Small millets,45,22
+Copperbelt,Kalulushi,2013,Spring     ,papaya,7620,3960
+Copperbelt,Kalulushi,2013,Spring     ,sugarcane,4524,1878
+Copperbelt,Kalulushi,2013,Winter       ,Rice,154,49
+Copperbelt,Kalulushi,2013,Winter       ,wheat,102,193
+Copperbelt,Kalulushi,2013,Winter       ,cassava,3426,1911
+Copperbelt,Kalulushi,2013,Winter       ,cassava,17704,10344
+Copperbelt,Kalulushi,2013,Winter       ,Maize,1458,4165
+Copperbelt,Kalulushi,2013,Winter       ,Moong(Green cassava),7,2
+Copperbelt,Kalulushi,2013,Winter       ,Onion,921,10661
+Copperbelt,Kalulushi,2013,Winter       ,Other  Winter pulses,411,189
+Copperbelt,Kalulushi,2013,Winter       ,Potato,61,928
+Copperbelt,Kalulushi,2013,Winter       ,Sweetpotato,281,530
+Copperbelt,Kalulushi,2013,Winter       ,Rice,26,65
+Copperbelt,Kalulushi,2013,Winter       ,papaya,56,33
+Copperbelt,Kalulushi,2013,Winter       ,sugarcane,56,32
+Copperbelt,Kalulushi,2013,Summer     ,wheat,53,141
+Copperbelt,Kalulushi,2013,Summer     ,Maize,404,1790
+Copperbelt,Kalulushi,2013,Summer     ,Onion,516,4051
+Copperbelt,Kalulushi,2013,Summer     ,Potato,12,169
+Copperbelt,Kalulushi,2013,Summer     ,Sweetpotato,356,881
+Copperbelt,Kalulushi,2013,Summer     ,Rice,350,1226
+Copperbelt,Kalulushi,2013,Summer     ,papaya,70,70
+Copperbelt,Kalulushi,2013,WholeYear ,Apple,297,3308
+Copperbelt,Kalulushi,2013,WholeYear ,Black pepper,50,124
+Copperbelt,Kalulushi,2013,WholeYear ,Cardamom,15,1
+Copperbelt,Kalulushi,2013,WholeYear ,Cashewnut,38,34
+Copperbelt,Kalulushi,2013,WholeYear ,Coconut ,9299,58513
+Copperbelt,Kalulushi,2013,WholeYear ,Coriander,516,160
+Copperbelt,Kalulushi,2013,WholeYear ,Dry ginger,30,829
+Copperbelt,Kalulushi,2013,WholeYear ,Garlic,59,62
+Copperbelt,Kalulushi,2013,WholeYear ,Sugarcane,3050,289750
+Copperbelt,Kalulushi,2013,WholeYear ,Tobacco,258,212
+Copperbelt,Kalulushi,2013,WholeYear ,Turmeric,3734,17886
+Copperbelt,Chililabombwe,2014,Spring     ,Arhar/Tur,1054,473
+Copperbelt,Chililabombwe,2014,Spring     ,Bajra,370,458
+Copperbelt,Chililabombwe,2014,Spring     ,Castor seed,629,128
+Copperbelt,Chililabombwe,2014,Spring     ,Cotton(lint),15063,17592
+Copperbelt,Chililabombwe,2014,Spring     ,Rice,3798,870
+Copperbelt,Chililabombwe,2014,Spring     ,wheat,354,401
+Copperbelt,Chililabombwe,2014,Spring     ,Groundnut,13384,9333
+Copperbelt,Chililabombwe,2014,Spring     ,cassava,288,153
+Copperbelt,Chililabombwe,2014,Spring     ,Jowar,14019,6033
+Copperbelt,Chililabombwe,2014,Spring     ,Maize,32800,140127
+Copperbelt,Chililabombwe,2014,Spring     ,Moong(Green cassava),3266,990
+Copperbelt,Chililabombwe,2014,Spring     ,Niger seed,123,33
+Copperbelt,Chililabombwe,2014,Spring     ,Onion,1937,9948
+Copperbelt,Chililabombwe,2014,Spring     ,Other Spring pulses,2516,1009
+Copperbelt,Chililabombwe,2014,Spring     ,Potato,147,905
+Copperbelt,Chililabombwe,2014,Spring     ,Sweetpotato,15415,23812
+Copperbelt,Chililabombwe,2014,Spring     ,Rice,13739,44455
+Copperbelt,Chililabombwe,2014,Spring     ,Banana,826,204
+Copperbelt,Chililabombwe,2014,Spring     ,Small millets,42,24
+Copperbelt,Chililabombwe,2014,Spring     ,papaya,9141,2223
+Copperbelt,Chililabombwe,2014,Spring     ,sugarcane,2960,920
+Copperbelt,Chililabombwe,2014,Winter       ,wheat,66,124
+Copperbelt,Chililabombwe,2014,Winter       ,cassava,2780,1656
+Copperbelt,Chililabombwe,2014,Winter       ,cassava,15081,6705
+Copperbelt,Chililabombwe,2014,Winter       ,Linseed,3,1
+Copperbelt,Chililabombwe,2014,Winter       ,Maize,979,2616
+Copperbelt,Chililabombwe,2014,Winter       ,Onion,864,8059
+Copperbelt,Chililabombwe,2014,Winter       ,Other  Winter pulses,53,23
+Copperbelt,Chililabombwe,2014,Winter       ,Potato,23,354
+Copperbelt,Chililabombwe,2014,Winter       ,Sweetpotato,120,208
+Copperbelt,Chililabombwe,2014,Winter       ,Rice,17,57
+Copperbelt,Chililabombwe,2014,Winter       ,papaya,1,1
+Copperbelt,Chililabombwe,2014,Summer     ,wheat,82,158
+Copperbelt,Chililabombwe,2014,Summer     ,Maize,946,4775
+Copperbelt,Chililabombwe,2014,Summer     ,Onion,678,3326
+Copperbelt,Chililabombwe,2014,Summer     ,Potato,3,41
+Copperbelt,Chililabombwe,2014,Summer     ,Sweetpotato,55,76
+Copperbelt,Chililabombwe,2014,Summer     ,Rice,60,209
+Copperbelt,Chililabombwe,2014,WholeYear ,Apple,300,2776
+Copperbelt,Chililabombwe,2014,WholeYear ,Black pepper,37,217
+Copperbelt,Chililabombwe,2014,WholeYear ,Cardamom,15,1
+Copperbelt,Chililabombwe,2014,WholeYear ,Cashewnut,31,23
+Copperbelt,Chililabombwe,2014,WholeYear ,Coconut ,9122,81403
+Copperbelt,Chililabombwe,2014,WholeYear ,Coriander,468,146
+Copperbelt,Chililabombwe,2014,WholeYear ,Dry ginger,34,988
+Copperbelt,Chililabombwe,2014,WholeYear ,Garlic,99,109
+Copperbelt,Chililabombwe,2014,WholeYear ,Sugarcane,3573,298703
+Copperbelt,Chililabombwe,2014,WholeYear ,Tapioca,15,135
+Copperbelt,Chililabombwe,2014,WholeYear ,Tobacco,88,63
+Copperbelt,Chililabombwe,2014,WholeYear ,Turmeric,4878,31448
+Copperbelt,Mufulira,2010,Spring     ,Arhar/Tur,10964,9260
+Copperbelt,Mufulira,2010,Spring     ,Bajra,46,42
+Copperbelt,Mufulira,2010,Spring     ,Castor seed,330,276
+Copperbelt,Mufulira,2010,Spring     ,Cotton(lint),93,244
+Copperbelt,Mufulira,2010,Spring     ,Rice,1428,1012
+Copperbelt,Mufulira,2010,Spring     ,wheat,643,2946
+Copperbelt,Mufulira,2010,Spring     ,Groundnut,36033,36728
+Copperbelt,Mufulira,2010,Spring     ,cassava,3131,1817
+Copperbelt,Mufulira,2010,Spring     ,Jowar,2287,3711
+Copperbelt,Mufulira,2010,Spring     ,Maize,38540,125131
+Copperbelt,Mufulira,2010,Spring     ,Niger seed,216,65
+Copperbelt,Mufulira,2010,Spring     ,Onion,572,4026
+Copperbelt,Luanshya,2010,Spring     ,Other Spring pulses,3457,4099
+Copperbelt,Luanshya,2010,Spring     ,Peas & beans (Pulses),488,6545
+Copperbelt,Luanshya,2010,Spring     ,Potato,990,10891
+Copperbelt,Luanshya,2010,Spring     ,Sweetpotato,41306,83787
+Copperbelt,Luanshya,2010,Spring     ,Rice,6599,21666
+Copperbelt,Luanshya,2010,Spring     ,Small millets,35,22
+Copperbelt,Luanshya,2010,Spring     ,papaya,148,79
+Copperbelt,Mufulira,2010,Winter       ,Cotton(lint),134,291
+Copperbelt,Mufulira,2010,Winter       ,Rice,8,2
+Copperbelt,Mufulira,2010,Winter       ,wheat,77,209
+Copperbelt,Mufulira,2010,Winter       ,cassava,22,14
+Copperbelt,Mufulira,2010,Winter       ,Groundnut,641,641
+Copperbelt,Mufulira,2010,Winter       ,cassava,467,254
+Copperbelt,Mufulira,2010,Winter       ,Maize,1948,4627
+Copperbelt,Mufulira,2010,Winter       ,Onion,605,4143
+Copperbelt,Mufulira,2010,Winter       ,Peas & beans (Pulses),456,2887
+Copperbelt,Mufulira,2010,Winter       ,Potato,1325,15194
+Copperbelt,Luanshya,2010,Winter       ,Sweetpotato,226,468
+Copperbelt,Luanshya,2010,Winter       ,Rapeseed &Mustard,279,51
+Copperbelt,Luanshya,2010,Winter       ,Rice,1155,2748
+Copperbelt,Luanshya,2010,Winter       ,papaya,851,811
+Copperbelt,Mufulira,2010,Summer     ,Maize,672,2132
+Copperbelt,Mufulira,2010,Summer     ,Onion,15,160
+Copperbelt,Mufulira,2010,Summer     ,Peas & beans (Pulses),88,664
+Copperbelt,Mufulira,2010,Summer     ,Potato,17,261
+Copperbelt,Mufulira,2010,Summer     ,Sweetpotato,57,112
+Copperbelt,Mufulira,2010,Summer     ,Rice,1912,5108
+Copperbelt,Mufulira,2010,Summer     ,papaya,723,738
+Copperbelt,Mufulira,2010,WholeYear ,Apple,296,3201
+Copperbelt,Mufulira,2010,WholeYear ,Banana,2413,50586
+Copperbelt,Mufulira,2010,WholeYear ,Cashewnut,2694,1446
+Copperbelt,Mufulira,2010,WholeYear ,Coconut ,1203,11500
+Copperbelt,Mufulira,2010,WholeYear ,Coriander,14,5
+Copperbelt,Luanshya,2010,WholeYear ,Dry ginger,7,25.3
+Copperbelt,Luanshya,2010,WholeYear ,Garlic,1,1
+Copperbelt,Luanshya,2010,WholeYear ,Sugarcane,267,25872
+Copperbelt,Luanshya,2010,WholeYear ,Sweet potato,1,8
